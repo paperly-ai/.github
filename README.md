@@ -1,0 +1,1 @@
+**Paperly-AI** is an advanced AI-powered platform designed to streamline document management and interaction. It leverages cutting-edge artificial intelligence to enhance document processing, extraction, and interactive capabilities, providing users with efficient tools for handling and analyzing paper-based content digitally.
